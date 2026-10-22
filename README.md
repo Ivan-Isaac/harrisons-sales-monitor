@@ -1,11 +1,11 @@
-# Harrisons Sabah — Sales Order Monitoring Dashboard
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/648ac946-a40b-46c2-99aa-b5420c3513e1" /># Harrisons Sabah — Sales Order Monitoring Dashboard
 
 An enterprise web application developed for the Harrisons Sabah Sdn. Bhd. MIS Department technical assessment. The application provides regional sales order monitoring, branch-level filtering, real-time KPI aggregations, and operational SLA delay tracking across Sabah distribution hubs.
 
 ---
 
 ## Live Demo & Repository
-- **Live Web App:** [Insert your Vercel URL after deployment]
+- **Live Web App:** https://harrisons-sales-monitor.vercel.app
 - **GitHub Repository:** https://github.com/Ivan-Isaac/harrisons-sales-monitor
 
 ---
