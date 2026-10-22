@@ -6,7 +6,7 @@ An enterprise web application developed for the Harrisons Sabah Sdn. Bhd. MIS De
 
 ## Live Demo & Repository
 - **Live Web App:** [Insert your Vercel URL after deployment]
-- **GitHub Repository:** [Insert your GitHub repo URL]
+- **GitHub Repository:** https://github.com/Ivan-Isaac/harrisons-sales-monitor
 
 ---
 
