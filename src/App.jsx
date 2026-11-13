@@ -120,7 +120,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-lg font-bold text-slate-900 tracking-tight">
-                Harrisons Sabah — Sales Order Monitor
+                Sales Order Monitor
               </h1>
               <p className="text-xs text-slate-500">
                 MIS Operations & Regional Branch Logistics Hub
